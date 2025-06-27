@@ -1,7 +1,7 @@
-🧠 GBG-CPU — A Custom CPU Built in Game Builder Garage
+🧠 GBG-HPU — A Custom CPU Built in Game Builder Garage
 ======================================================
 
-Welcome to **GBG-CPU**, a custom-designed CPU architecture implemented entirely inside **Nintendo’s Game Builder Garage**! This is a passion project that explores the boundaries of what’s possible in a no-code/visual programming environment on the Nintendo Switch.
+Welcome to **GBG-HPU**, a custom-designed CPU architecture implemented entirely inside **Nintendo’s Game Builder Garage**! This is a passion project that explores the boundaries of what’s possible in a no-code/visual programming environment on the Nintendo Switch.
 
 🎮 What is This?
 ----------------
@@ -18,7 +18,7 @@ GBG-HPU is a fully functional, 8-bit CPU created using GBG's visual nodon system
     
 *   Clock and control logic
     
-*   Simple I/O for debugging or display
+*   I/O system 
     
 
 This project isn't just a game — it's a hardware simulation inside a game engine!
@@ -40,7 +40,7 @@ Since GBG doesn’t allow exporting source code, the CPU is shared via:
 *   Instructions on how to download it via GBG share codes
     
 
-➡️ **\[INSERT LINK\]** to watch the CPU in action  
+➡️ **\[INSERT LINK\]** to watch the HPU in action  
 ➡️ **GBG Share Code:** `XXXX-XXXX` (replace with your actual share code)
 
 🧱 Architecture Overview
@@ -52,7 +52,7 @@ Since GBG doesn’t allow exporting source code, the CPU is shared via:
     
 *   **ALU Operations:** AND, OR, ADD, SUB, NOT, etc.
     
-*   **Instruction Set:** Custom-designed 4–8-bit opcode system
+*   **Instruction Set:** Custom-designed x–x-bit opcode system
     
 *   **Clock System:** Software-based cycle controller using nodons
     
@@ -95,18 +95,6 @@ Due to GBG's limitations, external collaboration is tricky, but ideas and feedba
 *   Help expand the instruction set
     
 *   Share screenshots or adaptations of your own
-    
-
-📬 Contact
-----------
-
-Feel free to reach out if you're a fellow GBG hacker or retro computing nerd:
-
-*   **Discord:** `yourusername#0000`
-    
-*   **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)
-    
-*   **Email:** your@email.com
     
 
 📝 License
